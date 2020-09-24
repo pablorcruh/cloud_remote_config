@@ -3,6 +3,6 @@ gateway:
 
 
 token:
-  expiration-time: 36100
+  expiration-time: 36500
   secret: secret
 
