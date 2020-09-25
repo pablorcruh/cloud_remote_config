@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/photo_app?serverTimeZone=UTC
+    username: root
+    password: (cipher)0c85e063677cb4e3b7acd4c1165a9eb742a3252e201e9cd025071581f4edae45
