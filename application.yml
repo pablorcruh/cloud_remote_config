@@ -8,4 +8,4 @@ token:
 
 
 albums:
-  url: http://ALBUMS_WS/users/%s/albums
+  url: http://albums-ws/users/%s/albums
